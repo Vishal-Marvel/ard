@@ -1,7 +1,7 @@
 import serial
 from datetime import datetime
 import time
-#Dev branch
+
 import firebase_admin
 from firebase_admin import credentials, db
 
